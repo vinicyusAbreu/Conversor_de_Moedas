@@ -12,7 +12,7 @@
 </ul>
 
 <h3>✨ Demostração do projeto</h3>
-<img src="https://i.ibb.co/JdQVvG6/e7b34085a19b9f9b39c81a2703a3ad14.png" width="500"></img>
+<img src="https://i.ibb.co/JdQVvG6/e7b34085a19b9f9b39c81a2703a3ad14.png"></img>
 
 
 <h4>ℹ️ Pré-requisitos</h4>
